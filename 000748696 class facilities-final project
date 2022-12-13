@@ -1,0 +1,17 @@
+class facilities:
+
+def_init_(self, name):
+        self.name = name 
+    def facility(self,filename):
+        with open (filename,"a")as file:
+            self.name = input("Enter the facility name: ")
+        print(self.name+"\n")
+
+def displayfacilities (self, filename ):
+    with open(filename, "r") as file:
+ print("facilities: ")
+
+ def list of facilities to file (self,list,filename);
+    with open(filename,"s") as file 
+For facility in facilities_list:
+    print(facility.name+'\n')
